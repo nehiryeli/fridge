@@ -1,7 +1,7 @@
 # How to Test
 Run following commands from root directory
 
-Check the doors of the fridge\
+Check the door of the fridge\
 ``php tests/TestDoor.php ``
 
 Try to put on a beverage to the fridge\
