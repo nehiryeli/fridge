@@ -1,4 +1,4 @@
-#How to Test
+# How to Test
 Run following commands from root directory
 
 Check the doors of the fridge\
