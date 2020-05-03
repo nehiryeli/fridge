@@ -2,13 +2,12 @@
 namespace App;
 class Shelf implements ShelfInterface
 {
+     const MAX_CAPACITY = 20;
+    
     /**
      * Capacity of the shelve
      * @var int
      */
-
-    const MAX_CAPACITY = 20;
-
     private $capacity;
     private $beverages;
 
